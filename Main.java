@@ -13,7 +13,7 @@ Regards,
 @author - Shubham Dasgupta
 
 
- */
+*/
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ class TicTacToe {
         Converter();
     }
 
-    /* Function to initializa values of the int array on the basis of the values of the char array
+    /* Function to initialize values of the int array on the basis of the values of the char array
     Empty value -> 0, X -> -1 and O -> 1*/
     public void Converter() {
         for (int i = 0; i < 3; i++) {
